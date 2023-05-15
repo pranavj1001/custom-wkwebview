@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import WebKit
 
 @main
 struct custom_wkwebviewApp: App {
